@@ -10,14 +10,14 @@ url: 'https://synergyai-org.github.io' # the base hostname & protocol for your s
 
 # SEO PLUGIN
 social:
-  name: Your Name
-  links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+  name: SYNERGY A.I.
+  # links:
+  #   - https://twitter.com/BenBalter
+  #   - https://www.facebook.com/ben.balter
+  #   - https://www.linkedin.com/in/BenBalter
+  #   - https://plus.google.com/+BenBalter
+  #   - https://github.com/benbalter
+  #   - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -25,8 +25,7 @@ navigation: # Navigation links
   - { name: 'About', link: '/about' }
   - { name: 'Contact', link: '/contact' }
 
-tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+tagline:
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
